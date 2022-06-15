@@ -6,7 +6,7 @@
 
 
 
-> April (April) is an open source team named after my cat. The original intention was to incubate some excellent projects into the community. To make our contribution, the slogan is (Code changes the world!)
+April (April) is an open source team named after my cat. The original intention was to incubate some excellent projects into the community. To make our contribution, the slogan is (Code changes the world!)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-> For code contribution guidelines, please read the README.md file in the [april-norm](https://github.com/april-projects/april-norm) project. You are also welcome to propose coding guidelines that you think are excellent, and the April community will carefully adopt them.
+For code contribution guidelines, please read the README.md file in the [april-norm](https://github.com/april-projects/april-norm) project. You are also welcome to propose coding guidelines that you think are excellent, and the April community will carefully adopt them.
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-> The documentation of the community is stored in [april-docs](https://github.com/april-projects/april-docs) for reference. You are welcome to object, modify, or optimize the contents of the documentation repository.
+The documentation of the community is stored in [april-docs](https://github.com/april-projects/april-docs) for reference. You are welcome to object, modify, or optimize the contents of the documentation repository.
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-> Currently the main team members are from China, um...., we eat soy milk and fried dough sticks🤣🤣🤣
+Currently the main team members are from China, um...., we eat soy milk and fried dough sticks🤣🤣🤣
 
 
 
@@ -38,4 +38,4 @@
 
 
 
-> We welcome you to use any programming language, I hope you have a dream and an open source spirit, if you want to join our team or a project, please contact me through [email](wljmobai@gmail.com), I will reply as soon as possible you! 👏👏👏
+We welcome you to use any programming language, I hope you have a dream and an open source spirit, if you want to join our team or a project, please contact me through [email](wljmobai@gmail.com), I will reply as soon as possible you! 👏👏👏
