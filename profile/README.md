@@ -14,7 +14,7 @@ April (April) is an open source team named after my cat. The original intention 
 
 
 
-For code contribution guidelines, please read the README.md file in the [april-norm](https://github.com/april-projects/april-norm) project. You are also welcome to propose coding guidelines that you think are excellent, and the April community will carefully adopt them.
+For code contribution guidelines, please read the README.md file in the [april-norm](https://docs.mobaijun.com/guide/basic/index.html) project. You are also welcome to propose coding guidelines that you think are excellent, and the April community will carefully adopt them.
 
 
 
