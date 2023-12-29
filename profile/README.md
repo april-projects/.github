@@ -38,4 +38,4 @@ Currently the main team members are from China, um...., we eat soy milk and frie
 
 
 
-We welcome you to use any programming language, I hope you have a dream and an open source spirit, if you want to join our team or a project, please contact me through [email](wljmobai@gmail.com), I will reply as soon as possible you! 👏👏👏
+We welcome you to use any programming language, I hope you have a dream and an open source spirit, if you want to join our team or a project, please contact me through [email](mailto:wljmobai@gmail.com), I will reply as soon as possible you! 👏👏👏
