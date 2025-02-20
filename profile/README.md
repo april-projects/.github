@@ -6,7 +6,7 @@ Welcome to April - the place where coding meets creativity!
 April, an open-source team named after my cat, is dedicated to incubating exceptional projects within the community. Our mission is clear - "Code changes the world!"
 
 🌈 **Contribution Guidelines:**
-For detailed guidelines on code contribution, please refer to the [[README.md](https://github.com/april-projects/april-docs/blob/main/README.md) in our April documentation project. We encourage you to propose coding guidelines that you find excellent, and the April community will thoughtfully consider and adopt them.
+For detailed guidelines on code contribution, please refer to the [README.md](https://github.com/april-projects/april-docs/blob/main/README.md) in our April documentation project. We encourage you to propose coding guidelines that you find excellent, and the April community will thoughtfully consider and adopt them.
 
 👩‍💻 **Useful Resources:**
 Explore our documentation stored in [april-docs](https://github.com/april-projects/april-docs) for reference. Feel free to contribute by suggesting modifications or optimizations to the documentation repository.
